@@ -9,8 +9,8 @@
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
     ],
     "path---": [
-      "path----3355653fe3a7159190ad.js",
-      "path----3355653fe3a7159190ad.js.map"
+      "path----9cf35caa6315d1e8abd0.js",
+      "path----9cf35caa6315d1e8abd0.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-9d95bd18fb5cbcaa723e.js",
@@ -29,20 +29,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-24505c034ef03f0428a6.js",
-      "component---src-layouts-index-js-24505c034ef03f0428a6.js.map"
+      "component---src-layouts-index-js-04ac6eecebe521ab7423.js",
+      "component---src-layouts-index-js-04ac6eecebe521ab7423.js.map"
     ],
     "path---free-parking-in-berkeley-ipynb-walkthrough": [
       "path---free-parking-in-berkeley-ipynb-walkthrough-acfc3cb074b810173f42.js",
       "path---free-parking-in-berkeley-ipynb-walkthrough-acfc3cb074b810173f42.js.map"
     ],
     "path---arch-installation-guide-hidpi": [
-      "path---arch-installation-guide-hidpi-02389ad133d4768803bf.js",
-      "path---arch-installation-guide-hidpi-02389ad133d4768803bf.js.map"
-    ],
-    "path---portrait-showcase": [
-      "path---portrait-showcase-a6cdef7851f2b9dd6f5b.js",
-      "path---portrait-showcase-a6cdef7851f2b9dd6f5b.js.map"
+      "path---arch-installation-guide-hidpi-3dc4c1b2744c77406d48.js",
+      "path---arch-installation-guide-hidpi-3dc4c1b2744c77406d48.js.map"
     ],
     "path---index": [
       "path---index-206ac74de0d3aab26f03.js",
@@ -91,9 +87,9 @@
       "path---are-you-motiwaited-972b8364123089c59fa4.js.map"
     ],
     "app": [
-      "app-4b3ac7e8ce246b1119fe.js",
+      "app-0c77fc61cb5aab78d630.js",
       "build-js-styles.css",
-      "app-4b3ac7e8ce246b1119fe.js.map",
+      "app-0c77fc61cb5aab78d630.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -103,10 +99,6 @@
     "path---press": [
       "path---press-74ea03d6da464dfe3985.js",
       "path---press-74ea03d6da464dfe3985.js.map"
-    ],
-    "path---outdoors-showcase": [
-      "path---outdoors-showcase-8f8b47012c48c973d8ed.js",
-      "path---outdoors-showcase-8f8b47012c48c973d8ed.js.map"
     ],
     "path---about": [
       "path---about-2c72d57af2599eab5ea8.js",
