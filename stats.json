@@ -12,9 +12,13 @@
       "component---src-pages-index-js-aa9570313651ef926b5a.js",
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
     ],
+    "path---the-ico-cookbook": [
+      "path---the-ico-cookbook-268217e693fcf8506cd0.js",
+      "path---the-ico-cookbook-268217e693fcf8506cd0.js.map"
+    ],
     "path---": [
-      "path----c377016e3fd400325527.js",
-      "path----c377016e3fd400325527.js.map"
+      "path----cd993ac6f21ac91d9dd1.js",
+      "path----cd993ac6f21ac91d9dd1.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-9d95bd18fb5cbcaa723e.js",
@@ -33,8 +37,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f90322695c33636836f8.js",
-      "component---src-layouts-index-js-f90322695c33636836f8.js.map"
+      "component---src-layouts-index-js-8e0c5a77a363f3c33194.js",
+      "component---src-layouts-index-js-8e0c5a77a363f3c33194.js.map"
     ],
     "path---free-parking-in-berkeley-ipynb-walkthrough": [
       "path---free-parking-in-berkeley-ipynb-walkthrough-acfc3cb074b810173f42.js",
@@ -91,9 +95,9 @@
       "path---are-you-motiwaited-972b8364123089c59fa4.js.map"
     ],
     "app": [
-      "app-b327c41e6fef0b1c0cc0.js",
+      "app-84c67e1ca71001d63deb.js",
       "build-js-styles.css",
-      "app-b327c41e6fef0b1c0cc0.js.map",
+      "app-84c67e1ca71001d63deb.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [

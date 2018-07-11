@@ -1,4 +1,370 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Angus's Personal Site]]></title><description><![CDATA[It's my personal site.]]></description><link>https://ayip.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Jun 2018 14:20:54 GMT</lastBuildDate><item><title><![CDATA[The BEST Photography Gadget]]></title><description><![CDATA[In my humble opinion, this is the best piece of photography gadget I ever owned: Not the Pixel 2 or whatever number it is at the time you…]]></description><link>https://ayip.io/the-best-photography-gadget/</link><guid isPermaLink="false">https://ayip.io/the-best-photography-gadget/</guid><content:encoded>&lt;p&gt;In my humble opinion, this is the best piece of photography gadget I ever owned:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Angus's Personal Site]]></title><description><![CDATA[It's my personal site.]]></description><link>https://ayip.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 11 Jul 2018 17:46:23 GMT</lastBuildDate><item><title><![CDATA[The ICO Cookbook]]></title><description><![CDATA[The ICO Cookbook Everything that goes into a delicious ICO, more or less Dish trivia When an organization issues and publicly sells a token…]]></description><link>https://ayip.io/the-ico-cookbook/</link><guid isPermaLink="false">https://ayip.io/the-ico-cookbook/</guid><content:encoded>&lt;h1&gt;The ICO Cookbook&lt;/h1&gt;
+&lt;p&gt;Everything that goes into a delicious ICO, more or less&lt;/p&gt;
+&lt;h3&gt;Dish trivia&lt;/h3&gt;
+&lt;p&gt;When an organization issues and publicly sells a token or cryptocurrency, it is called an initial coin offering or an ICO. The name is a reference to the traditional way of raising money through issuing shares (an IPO, or initial public offering).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-d5b0b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.73469387755102%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAADJElEQVQozwEZA+b8AL6jfFJsUAAbC290aLa0q7W1rr/Awc26n9Kwec2mbcmndMeqfr6YY8apeOLRp6KXbE04IFQ2F2lBG4hWJgCbnVpSa0JndGuuq6u2tK27urfGwLXSsn/UtYHYu4rVuYvDn2yzj1qhcz9/Yj1ONx5TPiRmQh6IUyCLWysAjaNyH0IUGzkhpqWZubSrvby6xK2Mzahx2LiB0LmG0LqLtphsl3VDhlkuhFcvglUsfm9Xf2hNdVU4YkEoAHOIVw02FxItF4+NgLm4uMO5scadZc2odOLLn9jFqLyfccCrkItxQWhRLYlZLYxoP4WCcqmpp5OFemM+IgCRZztCMxV9eXK8u8HKyM/Gr4q1kVO6l2LOvZ7Ju6WPfFatm4p6bUZXQhyUYzWNelqampKwrrGnm5KVfmIAoGBCkVk1vaCF1tfd2Mq+xahwYmo6gmVDyLGRu6mIqYpaeFgtdmM7c08noXlJjIh2r6yqtrS2wMHFbGRWAMKcaMypbNGwednRzs+0jdGlbnV5SVBTKKeDWsOlf5t1VHpiPnRWLKd6RZmBWpWVjLa2uLy5vNjS04F2agDRq2/SrHHSrXDUwqvGrozNp3SgiVNUWyt1XDTBmGnNtJO6p4CNbEOneUOKg3CXlJGlmZW0srPAvL23srMA0axxxKBosopVu5+CxsTIxbmsu6N/nHtLu41XyaZ23c24xrSRk3FKhWZBi46Gs62ukVdQlJKKtbGzsq6vALCLXauBWa1+WLKGYsi/vMjGy8fEx8O4r8Gqi8GcarmOX7OSap5yQ4F0XJ6dmrWcnYlJSol0bbCwsq6srwCjcU+se1ivgVy0h13Fs6HHxMjHw8XDwsjAv8a+t7O1n4m+nneqj2mPjYOpmJihbW+ji4ugh4SnpKChiIYAq3tVsIJcsIdgonpWooRtwLzBwr/Dwb3BwLy/wr7Bv7y/u7SxrKWgr6qrrqionoOEg11bh4h+tIyRq2FnAKl/WplyUY5kR4dZPpNiRbqrpb27v724ub66vb+6vMC7vL25vLy3vLu4ur6kqaJdamI0N2BYUIhnaapUZwO/saYI4Rw5AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-48538.png&quot;
+        srcset=&quot;/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-bed0f.png 200w,
+/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-5fd34.png 400w,
+/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-48538.png 800w,
+/static/cook1-5d09df75b8a8fc1049653905e3be2d0a-d5b0b.png 980w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This new way of fundraising has several advantages compared to traditional means (VCs and IPO), namely a shorter time-span, lower barriers of entry, less bureaucracy, and the ability to build a user base at the same time of fundraising.&lt;/p&gt;
+&lt;p&gt;Preparation is required for an ICO. The level of convenience in fundraising has never been reached before, which is perhaps why the ICO or blockchain market boomed as it did.&lt;/p&gt;
+&lt;p&gt;This gives innovators a way to add value to their business or a market by leveraging the possibilities enabled by the blockchain technology. On the flip side, this also enables ill-intended fundraisers to quickly drain value out of the market to line up their own pockets.&lt;/p&gt;
+&lt;p&gt;At the time of writing (late 2018), investors are much less inclined to blindly invest much like the ICO craze around this time last year. Plus the maturing regulations, more blockchain projects are relying more on private sale and reaching out to known investor pools/VCs.&lt;/p&gt;
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Proof of concept —— 2 cups, washed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technical —— 1 bowl, chopped&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Legal —— 3 pcs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presence —— to-taste&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Preparation&lt;/h2&gt;
+&lt;h2&gt;Proof of concept&lt;/h2&gt;
+&lt;p&gt;An ICO is not venture capital nor an IPO. Some companies reach a point where they need capital for further operation or expansion, and they see ICO as a mean to reach the most investors and generate the most funds. When there’s no innovation or purpose to a token, the token is destined to fall short of its hype. It’s just wanton without filling.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook2-c240f4f03ecc4af591cb0af3d1769196-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAADEElEQVQoz2OQFORhY2JkY2LgYGbgZGEEIm5WRm5mRkVxgUR/mymN6TPbcyY1pjXkhoQ66usqiUsI8gpxsTMxMDAyMDDIigkANXAxMwpwsAhzcwhxc4jxcCjwc4a7GC2fWrVyRu3U1uwV02q6KxMCHQz0lCRF+Xn4OZhZGMGa+TlZOZkZuVgYBTjZxPh4JPj5JHh5rBTFCqOcVs1uWDKlqqsmdUprdmtxVIijgZacqIQgD9AaFpBWBgagCzmYQa7lY2cR5GaX4uNW4Oc2kOCPtdEqCbFrjnHuinOuC7FOc9S1U5VSF+WXFeDmZWNmgACgNiATiNgYGYBe4WJh4mdnEudiVuJlU+dmidOWnJ/qNDPFtdjDUFOET16Qj4+DFWgtCxMTMxMjAxcrs5q0kKwon5KEgJaCqKmGlDgPmwA7oww3uyo/p4eiSGeIxbxszwpPA1MpfgF2VhM5QU89OTt1KXlBLgYOBoYUf+PWUv/GYt/JbbErpuU5G8gLsDPoSAsayYnYKIsnWWssqYheWpNQGeWuryoba6URrC6qxM+hJcjJsGnlnLNHtjy6ffrRnbOvnt168+zWucNbrp8//uzB9ZdPbn/++Prdq6efXj74/un1u6trlhbaHVnVUxfjrszFJM/HwfD//+//f37//f3z398////9+/////cfH968f/gfDG6d3rNvRtHWiVlnV1UfnhRc5SSSbCUVYansqSsbYqbK8P/nh38/P/3/++P//38/f34Hati7c66Xl1xzVeiNg/PWd4TW+Knsn5awtdV7bYVDkImksTi7vwavrQK/v5ECw/z+6uXT6zYt6j69e/HLG3svHVg5paMs0MukNM1rR4v39CStEgepLBuJNCvxNGspL3V+QwkuA0luByU+EyluBmkJUXCUMfKwMnaWRi/vKeioyp/QXtdSmp5sr24mxRmoxRegweevzge00Eedz0KGW5STRYSHXR4YYNmpcZZmhg42FuKiIpzsrPFu+u4WujYWxrKigkBFwMSkIsRhIcsDROYy3DpinBLcrOzMkPTFAABjd+fYk5WTjgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook2-c240f4f03ecc4af591cb0af3d1769196-48538.png&quot;
+        srcset=&quot;/static/cook2-c240f4f03ecc4af591cb0af3d1769196-bed0f.png 200w,
+/static/cook2-c240f4f03ecc4af591cb0af3d1769196-5fd34.png 400w,
+/static/cook2-c240f4f03ecc4af591cb0af3d1769196-48538.png 800w,
+/static/cook2-c240f4f03ecc4af591cb0af3d1769196-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;ICO is a tool for creative blockchain projects or use-cases to reach a funding so they get built. The key word here is &lt;strong&gt;blockchain project&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Token Utility Value&lt;/h3&gt;
+&lt;p&gt;What makes a token different from a share or a loan agreement is its utility. If the product or platform could function just as well without the tokens, a blockchain and an ICO on top, there is no reason to ICO with few exceptions.&lt;/p&gt;
+&lt;p&gt;Find the token utility value or an exceptionally good reason to not have one.&lt;/p&gt;
+&lt;p&gt;Consider the full project’s scope such as its vision, addressed problems, timeline, market fit, competition, unique value proposition, revenue model etc.&lt;/p&gt;
+&lt;h3&gt;Token Economics&lt;/h3&gt;
+&lt;p&gt;For each use case, there’s a different price to ask for over a different time frame. Address these basic token design questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What is the price of the token?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What bonuses are offered over which period of time?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How will new currency be introduced, or is the supply fixed?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the token allocation?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Organization&lt;/h3&gt;
+&lt;p&gt;The organization and its partners’ main goal is to deliver promises of the ICO.&lt;/p&gt;
+&lt;p&gt;The founder and team are experts in their related fields. When there are areas to be complimented, look for advisors. For example, when expecting legal challenges during proposal of their business model, a local legal advisor provides use by making sure each action the business takes is in compliance with local regulations. Each name on the roster list has a clear purpose in the big picture.&lt;/p&gt;
+&lt;p&gt;Early contributor and team tokens may have a mechanism in place to prevent dumping immediately post ICO.&lt;/p&gt;
+&lt;h2&gt;Technology&lt;/h2&gt;
+&lt;p&gt;The technology involved in an ICO could be simple and straightforward, or technologically innovative and complex, depending on the end goal.&lt;/p&gt;
+&lt;p&gt;If the product use case is simple, a token platform like Ethereum, Steller, and NEM suffices; if the company seeks to improve an existing blockchain protocol or introduce a new consensus model, a token platform can act as an intermediary mechanism to fund development.&lt;/p&gt;
+&lt;p&gt;Choosing a platform has implications, namely the accepted currency, existing community, and platform support.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.7%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAADJElEQVQozwEZA+b8ACk4TICGi52UjEdMVoF/eoiBdo2DdJaFaop5YoN+dH5+eXBjYVZBRjMyQT1KWc/Iv+bf18G+uZKYmWp0fAAxPlE2Q1RIVGRHU2F2dHCEfnSDe2+Ke2huZ19KUFpLVF5+dHJbSE0NHTZYX2m8uLK4ubiwsbGXnZ9qdoAAXGZvR1RiPktaP0lXZm10j4l+rZVzkYFpUlRaZWRlVFphQkNPNzdFMDlJiHh0sJOJhnRwgIGFVmFtPkxcAGBfZWJmamdrbnJ2eWJqcWdoZ4l6Z1pZWlNWXHZ1c2BlaWlkXcaqgdCxiaiMfKCEfX9pZlxTWpKZm1tncwCNdWZQW2hmbXVQWmNIUFo9R1U/SVkzPUxBSFMxPU9eW1XMqnemjWt/bmOTeW9fVVZeVVk4NEJQWGJWY3AAi3Z0N0FQj4yKpaSjW2NsUlddW11gSFFcPUhVcmtfxKV1mYBgST1BRUJIXllajHhyd2JjOTtHUVNaSFNgALuQhm9lYod7bcC0oYqGgVhTU4N0ZZiGcrSefLihfauVcnJkUlpTVU1HSzo9SGpgYIZzcU5TWkRKVSc5TQCthHqhkYDGspPQt5PFrIm5o4TLs43Ls43DqYPAq4yxnX+XgmKYjHpbVFI7PEhcVVlMTFMcLEASIzshM0cAn312jIeBcGpnk4d2rJqAsZ+DqJd8sp+Bsplyw7GUsJp4tKCG0sW0o5aCbWhjal5ZWFBNOzhBOThCKzVGAGZYXENFTn9yYuDBkOPDltW7l7mlhbWffaydg7utmbKcfNnHsN/PvbermKyfiJaIc5SIc2RdWkU/RCYvQQAvM0NLSEmjiWXGpnXdv5TiyKLpzKTwz6PtzaHSuJXDrpHo2MXXxrK2qJK+r5W6q5C1pYqZkYBOUFceLEEAMzlGR0dPU0xLhHNdkIFrp5V6yq+K17qQ3bqIv6FztKWRycC2tKueraKSo5uLpZuKqqGQjYiBWVVaRUJNAEdJUlFPVIN5bGReW09NUVlST3toUYlxVLiWZaOMapSPhpKQiYGAeoSBeYJ/eXNva3x6dKqek2xYXD85RDAvbRVecF9AAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook3&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-48538.png&quot;
+        srcset=&quot;/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-bed0f.png 200w,
+/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-5fd34.png 400w,
+/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-48538.png 800w,
+/static/cook3-0d7af5c41cd4cd10fa955609ff8156f1-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The smart contract or mainnet in development reflects the token design/economics, so its source code is usually open source for community trust.&lt;/p&gt;
+&lt;p&gt;Preparing this part can be quick and easy, but don’t cheap out on extensive testing and auditing. They maximize security, which limits the unseen inconveniences or disasters that may come through the cracks.&lt;/p&gt;
+&lt;h2&gt;Legal&lt;/h2&gt;
+&lt;p&gt;Aside from drafting standard legal documents such as a Terms of Service, Token Purchase Agreement, Disclaimer, Privacy Policy… there are a few more steps.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.7%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAC9ElEQVQozx3QW3PSCACG4XizWmkg5Eg4k0AChJQkJIEQILFAClgFmmLKlENLVbArttta7NZdtw6r3tjZw4zjhe5e7F/Yy/1zyzjzXT4z38wLLJfn3x8773965ox3dKvC5zemvdavb+ajJ7u9A/vsx5P5D9OH4974dLa4nH19f1GyyqycThWyz8+OAL0iyZVcriKkxCQvc6LCbQhxu2McH7abW8VOv10wFNOUa1XF6Za1Yjpt5K2hzZv50aQL8FKSFdOVktRtlvrbhq6LnU31z5P9k15dK3Dte9LgYa1dKzYruZ6l1U05xCVSmqRapeP5AIjRQS+BKEq6WREbhvzykX69Z3ycPfq0mLz7ef7Li7Fj5GbbxQ9D46Ch2XWtoWdN22rtPzieD4EAFYqxsTTPsPFIpcT9fpa/mZUnreIfy/N/P13/9+Xd2xeHr+4LHzqpi74xONrXyqLZKA16zcGoAyAhn58K8xtMdVPVxFj/AdVrsDkm9Hox/Wsx/Oe8/+ppfzfPntfik0Z2NN5JSgzHUXqGrZZyAOzHqCRFsxFVZgLRwBqOIZGAP+xzuvc+Xwz+fvN0u5jdlNmXTXbP4BQ2ogiJKBNh2AjH0QBMokKWxf3YdxB4F4PveKE1DLkF3s1J7NXj9vLysZzjFJHumhlVpEg6uI5AQTrI8NQ6BgNEyKcrPBkmIT/m9sG2kXVqQkvj93brzbpqFTOWmnk7ri6Pas+7aq8m+KNkPJtgBAYkYAAPEarEYatnAk9x9NVO5fVu6WbY+G1x8OS+3i2kT7fUK8e8mDRvDqtfTrcViQYJxONDIBIFkADGpeNuBEJIVBeZvSI/t/LTrbzMxZyycOnUF7Z5aZvXU3vUNqatfKHAoSGfC3Z7CARYRzzxRAT1oSDmxYKEl0QDEZJmo1AApxKRvJQUs0yGo5NsNBwPEyECD5FwAL/tdq1BILDmBd2Ix41Cq0E+ZB31uGDPqooH97ow720EcuGwG4ddKLTS4De28iACgYjnf0IBsR6o8SK9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook4&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-48538.png&quot;
+        srcset=&quot;/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-bed0f.png 200w,
+/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-5fd34.png 400w,
+/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-48538.png 800w,
+/static/cook4-7d777bb57f5afe402163ef2dfd7c645a-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Location location location&lt;/h3&gt;
+&lt;p&gt;Decide the location twice: the location of the token-issuing entity, and the location of investors.&lt;/p&gt;
+&lt;p&gt;Most ICOs issue their tokens in Singapore or Switzerland. There are local securities laws, KYC/AML laws, and regulations to follow.&lt;/p&gt;
+&lt;p&gt;Although ICOs target globally, ICO investors from a few regions are problematic to deal with, such as China and the United States of America. Choose the locations of your investors.&lt;/p&gt;
+&lt;p&gt;Digital token bookkeeping, accounting, and auditing are necessary considerations in the context of local jurisdiction and taxation.&lt;/p&gt;
+&lt;h3&gt;Whitepaper&lt;/h3&gt;
+&lt;p&gt;Perhaps the most important document of an ICO, a whitepaper is a mix of a company constitution, business plan, technical spec sheet, and pitch deck. A specification does not yet exist. Investors review it to ensure the legitimacy, feasibility, and prospect of a project; regulators review it to ensure the project is in compliance of financial and security regulations; press base their judgment and releases on it.&lt;/p&gt;
+&lt;p&gt;Put all previously prepared items in an accessible and well-documented manner in the whitepaper.&lt;/p&gt;
+&lt;p&gt;Liberally use designers, legal experts, and blockchain experts for formatting, auditing, and proofreading.&lt;/p&gt;
+&lt;p&gt;Optionally localize resources, including the whitepaper, to a different language, to increase outreach and trust from more communities.&lt;/p&gt;
+&lt;h2&gt;Presence&lt;/h2&gt;
+&lt;p&gt;Publish the whitepaper. It is the usual first step to establish a presence for an ICO. Ideally, the ICO branding and a well laid-out website are already in place. ICO branding goes a long way in establishing credibility since a book is usually judged by its cover.&lt;/p&gt;
+&lt;p&gt;Set up a one-way communication channel such as a newsletter. It may prove more useful than one might assume. Many investors are interested in keeping up to date of a project in this simple yet direct way.&lt;/p&gt;
+&lt;h3&gt;Marketing&lt;/h3&gt;
+&lt;p&gt;Some projects never reached their goals due to a simple lack of coverage; then some projects receive too much attention and got shut down by authorities. Like most things, marketing works best in moderation.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook5-4b417719b7d8966c7d6d4c347bf80818-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.7%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAACrElEQVQozz2S604TQQCFFyj0utvZndmZvbXd7rbF3i8USu9IS6mhFCi1xEjFC1FQ0aiJ0YKARBIxxJjwgxcw4Rl8A//wBEafxYUCyckkk8yXczLnUJiIfUEsxlUpHvL5VNmPaGqQYmibrnlYQGuqwkEngozLJSoylgji8QVC9UnjQkRx1Oc2YIJAQoMSgbli6dm9ZkSXFAIlAfLA9vrV885CHUEWC9IVLIiyE7C6Tzs6/jYWDyUDcj4dnJ6Idev5x1PxdkxL+ZSIG6c9/Nf9ne5MXuBZ0od5LAiiJIjYarOenf3srnZ8CrozGd7K65sFfzcmP016W9lwWJUKbq63+eTBRDDh4Q2k7yxBxLEcPThIlfKZ5tzs/buLc/WZTsz1blLvZXwH7fLp0cd2ozIhsS/nqy+inowbkWtY4CCACECWTiWitXr9zdbGcq20Voh+f1TdXxj/dbr759/fk8PeeERfn6vMBhSfJsiyZHwTRQQRsA4es15dzeZzjWZzulpZaVY7Ob3XSm8UQ5+6jZPtt+vlVM4rLN/O5gNKwEM0l+EsUUZ6owYjhdsjJ5Kx5uJCKBJMT2Y+L/l78/6H1cRSJpjXSJu31Nwo5JXCHlJQSUYTEREuY3OAx5wg8oGAFo9HVVXJxrxrjfG9VqDXGk0F1SkRTJmp48ODnb091SNphNUkZHR92TPmEQKAY6LRULFcWsnKP1pSOe3/sppupDDLOEoCM2aldrffn5//rlVKDsaOCbkZiWHP8wSGwrcSqcSYSk+H0agbbVTcaZ0dMpmgw+yyDMSD2tHBh2ImCViOXI+EXMAE8xiyHOMEdgjsCNAuzOiCHTqtIyMmi9XsBE6Hw0477Pji9dWiDRj3BSELAE3bzXbLkNUybDYPGZjNOmwyDTAMQwTZcDPOG9LQf6gQgrpOjACtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook5&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook5-4b417719b7d8966c7d6d4c347bf80818-48538.png&quot;
+        srcset=&quot;/static/cook5-4b417719b7d8966c7d6d4c347bf80818-bed0f.png 200w,
+/static/cook5-4b417719b7d8966c7d6d4c347bf80818-5fd34.png 400w,
+/static/cook5-4b417719b7d8966c7d6d4c347bf80818-48538.png 800w,
+/static/cook5-4b417719b7d8966c7d6d4c347bf80818-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Make physical presences in road shows and conferences to engage audiences. Some companies make a point to show up at every major crypto event during the sale period.&lt;/p&gt;
+&lt;h3&gt;Social media&lt;/h3&gt;
+&lt;p&gt;Tools such as Facebook, Twitter, and Reddit allows a company to reach a significant share of cryptocurrency investors. Slack and Telegram serve a different purpose than outreach, which is community management. The latter tools encourage discussion within the community.&lt;/p&gt;
+&lt;p&gt;Once a sizable user base is reached, hire dedicated social media managers and content creators to keep the community in control.&lt;/p&gt;
+&lt;p&gt;Prepare an FAQ to ease the load of community engagement. Pointing confused investors to an FAQ saves major resources.&lt;/p&gt;
+&lt;p&gt;Keep in mind, though, social media channels are the most common entry points for scammers to exploit.&lt;/p&gt;
+&lt;p&gt;Use incentive programs such as airdrops, referral bonuses, and bounty programs to promote organic growth.&lt;/p&gt;
+&lt;p&gt;Invest in SEO and listing services for visibility in lieu of advertising, since the most popular advertising platforms simply disallow ICOs.&lt;/p&gt;
+&lt;p&gt;Use public relations to create an advantage, since cryptocurrency prices are heavily dictated by the flow of information.&lt;/p&gt;
+&lt;h2&gt;Cooking directions&lt;/h2&gt;
+&lt;p&gt;Decide how to accept funds. Try integrating a payment page on the official site, or try providing addresses to send contributions to.&lt;/p&gt;
+&lt;p&gt;There are ICO platforms that collect on behalf of listed projects and take a cut, similar to Kickstarter’s model. These platforms are seen as escrow services by the public, thus giving some assurance on their investment.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook6-800992a1845b8d0c7cac6f724fd4997a-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.7%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAADJElEQVQozwEZA+b8AL2qmL2tnb+wobqtoIWJho1yXnhaQ0AwJk0oHk8pFlk/LX5wYolvXZxwVb2IbN2xm8OonpWNi6mutJifpADCsZ/Ar5/GtaSuoZSqopuDeG5ZSj5EJx2lbEB5RCVkPimcfWrKnoXZrZbVspyroZw9QUJbY2mBh44nKy0AwK+eybajqZ+SkpSStqSWnpGGj29Ue1Q5YTYimG5ay6CJ3LmnmoeDlH1ltoxXZVNPcnp+aF5ZFxQRAAQHALimlcezoJeHd3RaRZR4YpN5ZYhwW3ltXX10bcWdh9y6qbGmoj4yL1FcQ0xLL1pJR4iQk6+jm6WOf4BtYADCsZ+HdWdzY1d0RidfUkZzaF1rcHBygIKTblOHXUOWb0vDt6xrZ2VpblhjYlV9fX+Yo6ibj4KVbUyVaUQAYFFFBQcJXmRlxcbFube3pq2veXx5iYmFnn1hbUAaxrSd29TMjpKQfIKGgYeKkJeYlqCnmYdzlWc9jGNAAG1SPjtAQbKtqXdwbWNCLq+YhretpZWMg7alkrKDT+bcytbZ2E9RT21sapqfn6GnqKGssJWBcKV2TJ50TQARDw9WW1+0rKJrV0F3b1hqVz6tpqJueXmNk5O0sqysrauVmZlRTk1eSD3GwLuprKyVn6Ozmn61jGGqgFgAAAAANzc3knxpg2pau7GnenNvpZ+bbnd4cnt6eoOHrKeetZ1szr6lwL28wLizyMC7q6ikup2Cw6SBqoVkAAAAAE0/Npx7YZtvVbqnmb/BwJCVlYeJh4WDgJ+gopR7ZWpVNrqsk+Pf2rq8vNXT0cq5q8Olib+ih76ihAAAAAJoTTvBm4Xau6qgpKNwdnWZj4Wjk4iDfXm5s7BzRTNlXVOblYHm3My+xsqDgX+2m4bFq5PLs5y8oYkAAAAAalpPzKuTkXtskX1skId/npWNjIaAgYeJra6uknhwgVk9n3xc0c7HdXl9EhYaXlhQy7ilzLil1cOuAAAAAnp0cMOghkw2JmxUQtvTyrOspHR7e3F7fZeeoMzLy3hMLY9sVq6xsyQoKx4hJBkcHqCUh6yZid3MtynTjMAxZKEIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook6&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook6-800992a1845b8d0c7cac6f724fd4997a-48538.png&quot;
+        srcset=&quot;/static/cook6-800992a1845b8d0c7cac6f724fd4997a-bed0f.png 200w,
+/static/cook6-800992a1845b8d0c7cac6f724fd4997a-5fd34.png 400w,
+/static/cook6-800992a1845b8d0c7cac6f724fd4997a-48538.png 800w,
+/static/cook6-800992a1845b8d0c7cac6f724fd4997a-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Presale&lt;/h3&gt;
+&lt;p&gt;Before the main token sales event, a presale, lasting a few days, offering not more than a few percents of the total supply may take place. This is for investors who see substantial potential in the project, or an existing customer base a company wants to give preference to. In usual cases, the bonus during this period is the greatest.&lt;/p&gt;
+&lt;h3&gt;Main sales event&lt;/h3&gt;
+&lt;p&gt;Ideally, market outreach is phenomenal and receptions are acclaimed, the actual sale period is over in an hour, and there are no leftover tokens to worry about.&lt;/p&gt;
+&lt;p&gt;In the more usual case, the sale will span over a predetermined sales period lasting a month on average. The token sale can be spread over multiple rounds but usually, there is only one. The token price can be fixed but it usually increases over the ICO period.&lt;/p&gt;
+&lt;p&gt;If there are leftover tokens, either burn, freeze, seize, or distribute them. There are merits to each approach.&lt;/p&gt;
+&lt;h3&gt;Post ICO&lt;/h3&gt;
+&lt;p&gt;Investors will look for ways to liquidate, and disaster is sure to follow if a company fails to provide one in a timely manner. Getting listed on exchanges is the reasonable next move post-ICO. Most smaller exchanges accept listing at a fee, while the larger ones require the ICO to maintain their spotlight on top of the fee. Some opt to create their own exchanges and wallets to get around the fact.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook7-553fabc328387f45f8ab8f60cb9eea64-eaeb9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.10000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAC50lEQVQozy3S32sUVxQH8PkTig9CqQi+WamKL4JQ9EVqfVLQh1Z86kv/AREUVLBUCbZQSSJKNGqMbRKNlqy7rtmEmE1M9veaye7sOLM7P3bu3Dtz5965Mzs7iRGT9QY8fB8OHD5c7uEIjuNCiGwbWhaw2m0AAO9dF/MghDxCPOI7DnZcgj3m0YD4IQkiGnb9TixwYFltw2hZXAOIkMPL+1qYUsJYEEVrYRj7LGQ82zLmkgZdQZHrWkvRW4pcy9fFeQcChIDrQP4UchmlkaopMwtTtUYx4CaIWcDlGvfbWJbE5od6WPnDn/kpXP7FVeeAqSO7HYBMrA2btYdG/uKr0eMrubsbTIq98rpfj6KAexatCapU1dRGd/bX3tR3vdwRv5W0rTa0YSxd7uW+x28ORjP7esXDW+juVvtSTzvTsy59DA0WfQr4n2VJbukWfPX7+tCOzel9VE1Ay4SO18le3Hqy8/PY/o2RvZ8zBzftwWDhlPjkG5j7OQ7VTrwZddcFmrsCxEm98sKeuYpKQ7YmtjXZME1raYg8/bHz6IeNgV1byQM984Y8cWLo5t5a9jff013a9YNIoH3fBv17yo/PP0+8gG9vGdN9ugkMrckX2ZBr5uId/f4xljzFqn8zJcOwRVwLE0b8zvbC/ju9e/D4jtT1s5NPB5IPrzWWE4ZUUEvptipa0jtNzOYLi8XSkq1/CH3PBRrG2KcexZCFsVBMjy4868+/HEz9e/vxg3/SyfGl1yNziUfz6fGB8enhVGk0kb03OdefEm9MFKulXGO1AMymB03s2AJoVk3lfb38tjA7/v9I3/C9P6emJpbLlXf5wrVnq4duvj96+fXJC2Pn+jJ/jWWWFtKVwpyq1BzbdIAuWGpVlwrKymItl5KKs0p1XipmZHFZaaw0pNXKSqlcWqxVskajYDerUJcRMCCwEL8lGwjQwcjxkEtdwjANMQkw/Rp+1ZT4hPi84VPHYwgzlwSeH/Fg2vkCKz92liLNBVoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook7&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook7-553fabc328387f45f8ab8f60cb9eea64-48538.png&quot;
+        srcset=&quot;/static/cook7-553fabc328387f45f8ab8f60cb9eea64-bed0f.png 200w,
+/static/cook7-553fabc328387f45f8ab8f60cb9eea64-5fd34.png 400w,
+/static/cook7-553fabc328387f45f8ab8f60cb9eea64-48538.png 800w,
+/static/cook7-553fabc328387f45f8ab8f60cb9eea64-eaeb9.png 1000w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Finally, let the free market determine the value of the coin. If the project grew substantially during the ICO, the value of the token will reflect that.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cook8-820826abda07ef25425196c98cc45dac-6b2a2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 25.884543761638735%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAVklEQVQY042PgQqAMAhE/f//nfPW5rptEZRFPVBQfBxKv2JmKekWcPcekNsMIOdcDjAKo9P/IxfKNgHshP63zCPKqsqw1lqtlb2/IHHF9ygnvj55zFzsZfEoOYIUtzUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;cook8&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cook8-820826abda07ef25425196c98cc45dac-48538.png&quot;
+        srcset=&quot;/static/cook8-820826abda07ef25425196c98cc45dac-bed0f.png 200w,
+/static/cook8-820826abda07ef25425196c98cc45dac-5fd34.png 400w,
+/static/cook8-820826abda07ef25425196c98cc45dac-48538.png 800w,
+/static/cook8-820826abda07ef25425196c98cc45dac-6b2a2.png 1074w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[The BEST Photography Gadget]]></title><description><![CDATA[In my humble opinion, this is the best piece of photography gadget I ever owned: Not the Pixel 2 or whatever number it is at the time you…]]></description><link>https://ayip.io/the-best-photography-gadget/</link><guid isPermaLink="false">https://ayip.io/the-best-photography-gadget/</guid><content:encoded>&lt;p&gt;In my humble opinion, this is the best piece of photography gadget I ever owned:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
